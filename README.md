@@ -2,4 +2,4 @@
 
 ##Em construção
 
-Um projeto de estudo usando typescript e consumindo a api prória do github para pesquisar os usuários da plataforma.
+Um projeto de estudo usando typescript e consumindo a api própria do github para pesquisar os usuários da plataforma.
